@@ -1,0 +1,14 @@
+torch
+torchvision
+timm
+opencv-python-headless
+scipy
+kornia
+pytorch-msssim
+scikit-image
+albumentations
+kaggle
+pandas
+tqdm
+Pillow
+numpy
